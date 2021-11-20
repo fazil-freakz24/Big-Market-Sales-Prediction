@@ -1,0 +1,2 @@
+# Big-Market-Sales-Prediction
+In this project, the sales data were collected from 2013 for 1559 products across 10 different cities. My aim is to build a predictive model and predict the sales of each product at a particular outlet. The data contains missing values as some stores didn’t report all the data due to technical glitches. I have done lot of Data Preprocessing method in order to gain insights from the data and to improve the prediction rate of my model.
